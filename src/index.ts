@@ -1,3 +1,3 @@
-import funcao from './mod';
+import funcao from './mode';
 
 funcao();
