@@ -2,14 +2,13 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/Aula-18-WebPack/mod.ts":
-/*!************************************!*\
-  !*** ./src/Aula-18-WebPack/mod.ts ***!
-  \************************************/
+/***/ "./src/Aula-19-Webpack/form-ccontrol.ts":
+/*!**********************************************!*\
+  !*** ./src/Aula-19-Webpack/form-ccontrol.ts ***!
+  \**********************************************/
 /***/ (() => {
 
 
-console.log('Sou o módulo');
 
 
 /***/ })
@@ -45,12 +44,12 @@ var __webpack_exports__ = {};
 // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
 (() => {
 var exports = __webpack_exports__;
-/*!**************************************!*\
-  !*** ./src/Aula-18-WebPack/index.ts ***!
-  \**************************************/
+/*!*****************************************!*\
+  !*** ./src/Aula-19-Webpack/index-wp.ts ***!
+  \*****************************************/
 
 Object.defineProperty(exports, "__esModule", ({ value: true }));
-__webpack_require__(/*! ./mod */ "./src/Aula-18-WebPack/mod.ts");
+__webpack_require__(/*! ./form-ccontrol */ "./src/Aula-19-Webpack/form-ccontrol.ts");
 
 })();
 
