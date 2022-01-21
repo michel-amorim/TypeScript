@@ -18,7 +18,7 @@ console.log(Cores);
 
 //
 
-function escolaCor(cor: Cores): void {
+export function escolaCor(cor: Cores): void {
   console.log(Cores[cor]);
 }
 
